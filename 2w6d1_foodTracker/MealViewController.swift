@@ -42,10 +42,6 @@ class MealViewController: UIViewController, UITextFieldDelegate, UIImagePickerCo
         
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
     
     //MARK: UITextFieldDelegate
     func textFieldDidBeginEditing(_ textField: UITextField)

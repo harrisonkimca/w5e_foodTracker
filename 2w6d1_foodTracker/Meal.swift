@@ -24,7 +24,7 @@ class Meal: NSObject, NSCoding {
     struct PropertyKey
     {
         static let name = "name"
-        static let photo = "photl"
+        static let photo = "photo"
         static let rating = "rating"
     }
     
